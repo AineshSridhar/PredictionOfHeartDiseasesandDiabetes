@@ -1,0 +1,6 @@
+joblib==1.4.2
+numpy==1.26.4
+scikit-learn==1.5.1
+scipy==1.14.0
+opencv-contrib-python==4.10.0.84 (if you need OpenCV for image processing)
+opencv-python==4.9.0.80 (if OpenCV is required)
